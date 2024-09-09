@@ -1,8 +1,12 @@
-*.dll
-*.lib
 *.obj
+*.pdb
+*.lib
 *.exp
-*.exe
+
 tags
+
 zig-out/
 zig-cache/
+
+debug
+release
