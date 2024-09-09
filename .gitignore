@@ -6,7 +6,7 @@
 tags
 
 zig-out/
-zig-cache/
+.zig-cache/
 
 debug
 release
